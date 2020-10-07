@@ -8,5 +8,5 @@
 - 🤔 I’m looking for help with ... landing an internship
 - 💬 Ask me about ... anything 
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Many of my projects are private due to a contract I signed 
+- ⚡ Fun fact: ... Many of my projects are private abiding by UCB Restrictions
 
