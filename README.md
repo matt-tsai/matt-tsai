@@ -3,9 +3,9 @@
 <!--
 **matt-tsai/matt-tsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on ... security
-- 🌱 I’m currently learning ... about more security
-- 💬 Ask me about ... bows
+- 🔭 I’m currently working on ... Open Source Security at Google 
+- 🌱 I’m currently learning ... Trusted Platform Modules
+- 💬 Ask me about ... Seattle :) 
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I can shoot an arrow around 50m
+- ⚡ Fun fact: ... I don't like the rain.
 
